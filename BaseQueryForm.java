@@ -5,6 +5,7 @@ import com.liepin.swift.framework.form.BaseForm;
 public class BaseQueryForm extends BaseForm {
 
     private static final long serialVersionUID = -3642259264420363692L;
+    //µ±Ç°Ò³Êý
     private Integer curPage = 0;
     private Integer pageSize = 10;
 
